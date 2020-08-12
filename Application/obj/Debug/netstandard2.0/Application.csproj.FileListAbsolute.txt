@@ -1,0 +1,14 @@
+D:\Raymond Files\ReactCore\Reactivities\Application\bin\Debug\netstandard2.0\Application.deps.json
+D:\Raymond Files\ReactCore\Reactivities\Application\bin\Debug\netstandard2.0\Application.dll
+D:\Raymond Files\ReactCore\Reactivities\Application\bin\Debug\netstandard2.0\Application.pdb
+D:\Raymond Files\ReactCore\Reactivities\Application\bin\Debug\netstandard2.0\Domain.dll
+D:\Raymond Files\ReactCore\Reactivities\Application\bin\Debug\netstandard2.0\Persistence.dll
+D:\Raymond Files\ReactCore\Reactivities\Application\bin\Debug\netstandard2.0\Domain.pdb
+D:\Raymond Files\ReactCore\Reactivities\Application\bin\Debug\netstandard2.0\Persistence.pdb
+D:\Raymond Files\ReactCore\Reactivities\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+D:\Raymond Files\ReactCore\Reactivities\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+D:\Raymond Files\ReactCore\Reactivities\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+D:\Raymond Files\ReactCore\Reactivities\Application\obj\Debug\netstandard2.0\Application.csproj.CoreCompileInputs.cache
+D:\Raymond Files\ReactCore\Reactivities\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
+D:\Raymond Files\ReactCore\Reactivities\Application\obj\Debug\netstandard2.0\Application.dll
+D:\Raymond Files\ReactCore\Reactivities\Application\obj\Debug\netstandard2.0\Application.pdb

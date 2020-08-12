@@ -1,0 +1,9 @@
+D:\Raymond Files\ReactCore\Reactivities\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+D:\Raymond Files\ReactCore\Reactivities\Domain\bin\Debug\netstandard2.0\Domain.dll
+D:\Raymond Files\ReactCore\Reactivities\Domain\bin\Debug\netstandard2.0\Domain.pdb
+D:\Raymond Files\ReactCore\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+D:\Raymond Files\ReactCore\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+D:\Raymond Files\ReactCore\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+D:\Raymond Files\ReactCore\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+D:\Raymond Files\ReactCore\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.dll
+D:\Raymond Files\ReactCore\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.pdb
