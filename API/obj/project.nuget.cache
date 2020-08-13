@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ah2ctJHrW5oqiREPlRf7VAVMWi7d9TMye8c7phSIPE6rdh+f/Izqd33oqWZy5aMGzv/iM7KKWb6YC0JIO5Ey3g==",
+  "dgSpecHash": "T3YMCW0wmPY0D2zgtWuQgZTx0zqlyYgj368lSNbjLtUpjj9Kh0+cgXiZDhzgWDjwgkvzUMPU2XCcKg7aQfQBkQ==",
   "success": true,
   "projectFilePath": "D:\\Raymond Files\\ReactCore\\Reactivities\\api\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Raymond\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.1.0\\mediatr.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
     "C:\\Users\\Raymond\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
     "C:\\Users\\Raymond\\.nuget\\packages\\microsoft.data.sqlite.core\\3.0.0\\microsoft.data.sqlite.core.3.0.0.nupkg.sha512",
     "C:\\Users\\Raymond\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.0.0\\microsoft.dotnet.platformabstractions.3.0.0.nupkg.sha512",
